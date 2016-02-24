@@ -1,0 +1,22 @@
+{
+	"name": "theme-wildlife",
+	"displayName": "Wildlife",
+	"description": "A dark vibrant colour theme for vscode",
+	"version": "0.0.1",
+	"publisher": "tushortz",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Wildlife-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/wildlife-dark.tmTheme"
+			}
+		]
+	}
+}
