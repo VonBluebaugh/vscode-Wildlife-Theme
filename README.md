@@ -1,6 +1,6 @@
 # Wildlife Theme
 
-Wildlife is a dark vibrant color theme for vscode.
+Wildlife is a vibrant color theme for vscode with both dark and light theme support.
 
 ## How to install
 Open vscode. Press `F1`, search "`ext install`" followed by extension name, in this case: "`ext install Wildlife Theme`" without the ">".
@@ -18,8 +18,8 @@ Read LICENSE on the [github](https://github.com/tushortz/vscode-Wildlife-Theme) 
 
 ## Screenshot
 
-![CSS Preview](screenshots/css.png)
+![CSS Preview](https://raw.githubusercontent.com/tushortz/vscode-Wildlife-Theme/master/screenshots/css.png)
 --------------------------
-![HTML Preview](screenshots/html.png)
+![HTML Preview](https://raw.githubusercontent.com/tushortz/vscode-Wildlife-Theme/master/screenshots/html.png)
 ------------------------
-![Python Preview](screenshots/python.png)
+![Python Preview](https://raw.githubusercontent.com/tushortz/vscode-Wildlife-Theme/master/screenshots/python.png)

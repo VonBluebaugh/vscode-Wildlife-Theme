@@ -1,22 +1,35 @@
 {
 	"name": "theme-wildlife",
-	"displayName": "Wildlife",
-	"description": "A dark vibrant colour theme for vscode",
+	"displayName": "Wildlife Theme",
+	"description": "A dark and light vibrant colour theme for vscode",
 	"version": "0.0.1",
 	"publisher": "tushortz",
+	"icon": "icon.svg",
+	"homepage": "https://github.com/tushortz/vscode-Wildlife-Theme",
 	"engines": {
 		"vscode": "^0.10.6"
 	},
+	"keywords":["wildlife", "theme", "vibrant", "cool", "best", "html", "css", "python", "java"],
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/tushortz/vscode-Wildlife-Theme.git"
+    },
 	"contributes": {
 		"themes": [
 			{
 				"label": "Wildlife-Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/wildlife-dark.tmTheme"
+			},
+			{
+				"label": "Wildlife-Theme",
+				"uiTheme": "vs-light",
+				"path": "./themes/wildlife-light.tmTheme"
 			}
 		]
 	}
 }
+
