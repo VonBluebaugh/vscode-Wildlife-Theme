@@ -23,4 +23,3 @@ Read LICENSE on the [github](https://github.com/tushortz/vscode-Wildlife-Theme) 
 ![HTML Preview](screenshots/html.png)
 ------------------------
 ![Python Preview](screenshots/python.png)
-** Enjoy!**
