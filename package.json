@@ -2,7 +2,7 @@
 	"name": "theme-wildlife",
 	"displayName": "Wildlife Theme",
 	"description": "A dark and light vibrant colour theme for vscode",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"publisher": "tushortz",
 	"icon": "icon.svg",
 	"homepage": "https://github.com/tushortz/vscode-Wildlife-Theme",
