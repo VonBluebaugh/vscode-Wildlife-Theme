@@ -20,12 +20,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Wildlife-Theme",
+				"label": "Wildlife-Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/wildlife-dark.tmTheme"
 			},
 			{
-				"label": "Wildlife-Theme",
+				"label": "Wildlife-Light",
 				"uiTheme": "vs-light",
 				"path": "./themes/wildlife-light.tmTheme"
 			}
