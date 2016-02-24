@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>author</key> 
+	<key>author</key>
 	<string>Taiwo Kareem</string>
 	<key>name</key>
 	<string>Wildlife - Light</string>
@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#DDDDDD</string>
 				<key>caret</key>
 				<string>#FF00FF</string>
 				<key>foreground</key>
