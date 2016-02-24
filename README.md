@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "theme-wildlife" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Wildlife Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Wildlife is a dark vibrant color theme for vscode.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How to install
+Open vscode. Press `F1`, search "`ext install`" followed by extension name, in this case: "`ext install Wildlife Theme`" without the ">".
+Or if you prefer ">**ext install**", hit enter, search "**Wildlife Theme**".
 
+Still confused? Click "Get Started" above.
+
+## Contributions
+
+Feel free to contribute to the extension. Fork it on [github](https://github.com/tushortz/vscode-Wildlife-Theme)
+
+## License
+
+Read LICENSE on the [github](https://github.com/tushortz/vscode-Wildlife-Theme) repository
+
+## Screenshot
+
+![CSS Preview](screenshots/css.png)
+--------------------------
+![HTML Preview](screenshots/html.png)
+------------------------
+![Python Preview](screenshots/python.png)
 ** Enjoy!**
